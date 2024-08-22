@@ -11,7 +11,7 @@ elif input_grades < 74 and input_grades >=0 :
     print('failed')
 
 else:
-    print('Your entered an invalid input!')
+    print('You entered an invalid input!')
 
 
       
